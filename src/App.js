@@ -11,6 +11,7 @@ class App extends Component {
         width="600px"
         height="600px"
         id="myId"
+      
         className="myClassname"
         display="initial"
         position="relative"
